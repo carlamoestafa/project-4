@@ -82,7 +82,7 @@ Within the books sentiment varies differently depending on the books. Some books
 
 ## PROJECT DELIVERABLES:
 
-[PRE-PROCESSING]()
+[PRE-PROCESSING](project_4_preprocessing.ipynb)
 
 [TOPIC MODELING]()
 

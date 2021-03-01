@@ -69,12 +69,12 @@ The books were id following the year of the publication, with book_1 being to th
 |19         | voice        | song        | codicil      | hand        | particle    | schoolmate  |
 
 Here is my attempts in interpreting the above results:
-Topic 1 : a man (and a death) in daily life setting 
-Topic 2 : a woman (and unusual death?) in a holiday setting (island , monster, island, motorboat...)
-Topic 3 : road trip/holiday/summer (hillocks, caravan, chateau, children)
-Topic 4 : nobility, valuable documents, secrecy
-Topic 5 : special substance/material (godstone, radium, menhirs, particle),legend/history (prophet, menhir, crypts, centuries)
-Topic 6 : jewelry, gambling/game) party? (poker, bridge, guests)
+* Topic 1 : a man (and a death) in daily life setting 
+* Topic 2 : a woman (and unusual death?) in a holiday setting (island , monster, island, motorboat...)
+* Topic 3 : road trip/holiday/summer (hillocks, caravan, chateau, children)
+* Topic 4 : nobility, valuable documents, secrecy
+* Topic 5 : special substance/material (godstone, radium, menhirs, particle),legend/history (prophet, menhir, crypts, centuries)
+* Topic 6 : jewelry, gambling/game) party? (poker, bridge, guests)
 
 The topic modeling with Tfidf and NMF, usig stop-words consisting all the words from the text except for NN and NNS tagged words provided the best results.
 The main insights from the toping modeling is that it is important to customise the stopwords based and higher resolution of the text provides better results. I should have split each chapter into sub-sections. 

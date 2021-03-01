@@ -80,11 +80,14 @@ The topic modeling with Tfidf and NMF, usig stop-words consisting all the words 
 The main insights from the toping modeling is that it is important to customise the stopwords based and higher resolution of the text provides better results. I should have split each chapter into sub-sections. 
 
 ### Sentiment Analysis
-![Positive sentiment overtime](/Users/carlamoestafa/Documents/GitHub/project-4/sentpos_overtime.png)
-![Negative Sentiment overtime](/Users/carlamoestafa/Documents/GitHub/project-4/sentneg_overtime.png)
-![Positive Sentiment variation within the books](/Users/carlamoestafa/Documents/GitHub/project-4/sentpos_short.png)
-![Negative Sentiment variation within the books](/Users/carlamoestafa/Documents/GitHub/project-4/sentneg_short.png)
-![Negative Sentiment variation within the books 10 & 16](/Users/carlamoestafa/Documents/GitHub/project-4/sentneg_10&16.png)
+![Positive sentiment overtime](sentpos_overtime.png)
+![Negative Sentiment overtime](sentneg_overtime.png)
+Positive sentiment variation in short books (< 10 chapter):
+![Positive Sentiment variation within the books](sentpos_short.png)
+Negative sentiment variation in short books:
+![Negative Sentiment variation within the books](sentneg_short.png)
+Negative sentiment variation in Book 10 & 16
+![Negative Sentiment variation within the books 10 & 16](sentneg_10&16.png)
 
 The positive sentiment variation overtime is quite stable, while negative sentiment is increasing.
 Within the books sentiment varies differently depending on the books. 

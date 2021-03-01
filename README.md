@@ -84,7 +84,9 @@ Within the books sentiment varies differently depending on the books. Some books
 
 [PRE-PROCESSING](project_4_preprocessing.ipynb)
 
-[TOPIC MODELING]()
+[TOPIC MODELING](modeling-final.ipynb)
 
-[SENTIMENT ANALYIS]()
-[PROJECT PRESENTATION]()
+[SENTIMENT ANALYIS](sentiment.ipynb)
+
+[PROJECT PRESENTATION](project-4.pptx)
+
